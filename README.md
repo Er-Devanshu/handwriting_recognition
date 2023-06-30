@@ -7,4 +7,5 @@ Character Recognition utilizes image processing technologies to convert characte
 There are 206,799 first names and 207,024 surnames in total. The data was divided into a training set (331,059), a testing set (41,382), and a validation set (41,382) respectively.
 
 ## Content
+
 The input data here are hundreds of thousands of images of handwritten names. In the Data, you’ll find the transcribed images broken up into test, training, and validation sets.
