@@ -1,4 +1,4 @@
-# handwriting_recognition
+# Handwriting Recognition
 
 This dataset consists of more than four hundred thousand handwritten names collected through charity projects.
 
